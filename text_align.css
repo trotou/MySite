@@ -1,0 +1,23 @@
+body {
+	padding: 20px;
+	background-image:  url("https://c.wallhere.com/photos/78/62/1920x1080_px_fantasy_Art_J_R_R_Tolkien_John_Howe_The_Silmarillion-740569.jpg!d");
+	background-size: cover;
+	background-attachment: fixed;
+
+}
+.sociedade {
+	background-image: url('travelling.jpg');
+	height: 300px;
+	background-position: 50% 75%;
+}
+h1 {
+	text-align: center;
+	color: white;
+}
+h3 {
+	color: #6b1f1f;
+}
+a { 
+	color: red;
+
+}
